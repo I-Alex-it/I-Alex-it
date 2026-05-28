@@ -71,4 +71,4 @@
 
 
 ### 📚 Обучение
-| <img height="550" src="media/certificate.png" alt="Сертификат QA Studio"/> | <img height="550" src="media/doublecertificate.jpg" alt="Сертификат Skillfactory"/>
+| <img height="400" src="media/certificate.png" alt="Сертификат QA Studio"/> | <img height="400" src="media/doublecertificate.jpg" alt="Сертификат Skillfactory"/>
