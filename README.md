@@ -59,6 +59,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Requests_Python_Logo.png" title="Requests" alt="Requests" width="40" height="40"/>&nbsp
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1280px-Selenium_Logo.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
   <img src="https://avatars.githubusercontent.com/u/5879127?v=4" title="allure" alt="allure" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" title="GitLab CI" alt="GitLab CI" width="40" height="40"/>&nbsp
   <img src="https://itproger.com/img/tests/1562920455.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp
 </div>
 
